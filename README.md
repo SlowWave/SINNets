@@ -67,7 +67,7 @@ $ python -m pip install -r requirements.txt
 
 ## Usage
 
-The [/examples folder](https://github.com/SlowWave/SINNets/tree/main/src/examples) within the repository provides three illustrative examples showcasing the usage of the classes for different dynamic systems:
+The [/examples](https://github.com/SlowWave/SINNets/tree/main/src/examples) folder within the repository provides three illustrative examples showcasing the usage of the classes for different dynamic systems:
 
 - Mass Spring Damper: simple linear dynamic system;
 - Simple Pendulum: simple non-linear dynamic system;
